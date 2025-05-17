@@ -1,4 +1,4 @@
-![chatbot] (https://github.com/JZanataNeto/chatbot-banks/blob/973e57f9aa76afb106819d16d991a43c386a4848/chatbot.jpg)
+![chatbot](https://github.com/JZanataNeto/chatbot-banks/blob/973e57f9aa76afb106819d16d991a43c386a4848/chatbot.jpg)
 # Chatbot-banks
 Aplicação: setor bancário e financeiro  
 Usuários: atendentes comerciais  
